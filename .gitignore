@@ -5,6 +5,7 @@ node_modules/
 
 /protos/ibc-go
 /protos/wasmd
+/protos/mainchain
 
 /build/
 /confio/
@@ -15,6 +16,7 @@ node_modules/
 /google/
 /ibc/
 /tendermint/
+/mainchain/
 /binary.*
 /helpers.*
 /index.*
@@ -23,6 +25,7 @@ node_modules/
 
 # IDEs
 .vscode/
+.idea
 
 # macOS
 .DS_Store
