@@ -1,6 +1,7 @@
-# cosmjs-types
+# cosmjs-fund-types
 
-[![npm version](https://img.shields.io/npm/v/cosmjs-types.svg)](https://www.npmjs.com/package/cosmjs-types)
+[![npm version](http://img.shields.io/npm/v/@unification-com/cosmjs-fund-types.svg?style=flat)](https://npmjs.org/package/@unification-com/cosmjs-fund-types "View this project on npm")
+
 
 ## Maintenance
 
