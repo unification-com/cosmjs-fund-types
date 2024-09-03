@@ -7,3 +7,6 @@
 [submodule "ibc-go"]
 	path = protos/ibc-go-src
 	url = https://github.com/cosmos/ibc-go
+[submodule "protos/mainchain-src"]
+	path = protos/mainchain-src
+	url = https://github.com/unification-com/mainchain
